@@ -1,6 +1,6 @@
 # Arquivos de linguagem para Laravel 7.9 - Português do Brasil
 
-Parte das traduções foram baseadas no repositório [enniosousa/laravel-5.5-pt-BR-localization](https://github.com/enniosousa/laravel-5.5-pt-BR-localization). A tradução foi feita a partir dos arquivos originais do Laravel na versão 7.9
+Parte das traduções e este Readme.md foram baseadas no repositório [enniosousa/laravel-5.5-pt-BR-localization](https://github.com/enniosousa/laravel-5.5-pt-BR-localization). A tradução foi feita a partir dos arquivos originais do Laravel na versão 7.9
 
 ## Instalação
 
